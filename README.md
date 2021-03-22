@@ -1,3 +1,5 @@
+## About Me
+
 - 👋 Hi, I’m Reza Rifat Basya
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Android from multiple source:
@@ -22,4 +24,6 @@
     - Coroutines, Flow, RxJava, Binding, LiveData, Room, DataStore, Paging, Clean Architecture, Dagger, Hilt, Koin, CI/CD, TDD, Espresso, Mockito, MockWebServer
 - 💞️ I’m looking for a job as an Android Developer
 - 📫 Check my CV on this link
+
+### [CV Reza RB](https://github.com/rezaerbe/rezaerbe/blob/main/CV%20Reza%20RB.jpg)
 
