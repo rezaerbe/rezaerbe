@@ -22,6 +22,15 @@
     - Coroutine, Flow, RxJava, Paging, Jetpack, MVVM, MVI, Dagger-Hilt, and Koin
   - Raywenderlich
     - Coroutines, Flow, RxJava, Binding, LiveData, Room, DataStore, Paging, Clean Architecture, Dagger, Hilt, Koin, CI/CD, TDD, Espresso, Mockito, MockWebServer
+- 🌱 I’m experienced in many android project:
+  - Cat IVD
+    - Application about cat identity and medical history. Also this app provide cat education and consultation
+  - Bem Fapet IPB
+    - Application about student, lecturer, event, facility report, and social media in Faculty of Animal Science, IPB.
+  - Female In Action
+    - Application about women's empowerment in the form of articles, videos, report, coaching, and consultation.
+  - Memoria
+    - Application to hire a professional photographer to capture beautiful memories from a pre-graduation, graduation, wedding, and event.
 - 💞️ I’m looking for a job as an Android Developer
 - 📫 Check my CV on this link
 
