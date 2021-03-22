@@ -25,5 +25,4 @@
 - 💞️ I’m looking for a job as an Android Developer
 - 📫 Check my CV on this link
 
-### [CV Reza RB](https://github.com/rezaerbe/rezaerbe/blob/main/CV%20Reza%20RB.jpg)
-
+### [CV Reza RB](https://raw.githubusercontent.com/rezaerbe/rezaerbe/main/CV%20Reza%20RB.png)
